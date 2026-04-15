@@ -107,7 +107,7 @@ export default function AboutPage() {
               Est. 1974
             </Badge>
             <h1 className="font-heading text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-              How It <span className="gradient-text">Began</span>
+              How It <span className="text-foreground">Began</span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
               Family owned and operated, we have been proudly serving the San
@@ -128,7 +128,7 @@ export default function AboutPage() {
                 Our Story
               </Badge>
               <h2 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl">
-                Our <span className="gradient-text">History</span>
+                Our <span className="text-foreground">History</span>
               </h2>
               <Separator className="my-6 max-w-16" />
               <p className="text-base leading-relaxed text-muted-foreground sm:text-lg">
@@ -186,7 +186,7 @@ export default function AboutPage() {
               Our Mission
             </Badge>
             <h2 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl">
-              What We <span className="gradient-text">Do</span>
+              What We <span className="text-foreground">Do</span>
             </h2>
             <Separator className="mx-auto my-6 max-w-xs" />
             <p className="text-base leading-relaxed text-muted-foreground sm:text-lg">

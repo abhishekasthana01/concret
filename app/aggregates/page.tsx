@@ -202,7 +202,7 @@ export default function AggregatesPage() {
           {/* Section intro */}
           <div className="mx-auto mb-16 max-w-3xl text-center">
             <h2 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl">
-              Our <span className="gradient-text">Products</span>
+              Our <span className="text-foreground">Products</span>
             </h2>
             <p className="mt-4 text-muted-foreground">
               Browse our full range of aggregate products for construction,

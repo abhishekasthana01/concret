@@ -203,10 +203,12 @@
 
 /* Gradient text utility */
 .gradient-text {
+  display: inline;
   background: linear-gradient(135deg, var(--primary) 0%, oklch(0.7 0.18 60) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  color: transparent;
 }
 
 /* Hero gradient overlay */

@@ -64,7 +64,7 @@ export function ConcreteCalculator() {
             Free Tool
           </Badge>
           <h2 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl">
-            Concrete <span className="gradient-text">Calculator</span>
+            Concrete <span className="text-foreground">Calculator</span>
           </h2>
           <p className="mt-4 text-base text-muted-foreground sm:text-lg">
             Estimate how much concrete you need for your project.

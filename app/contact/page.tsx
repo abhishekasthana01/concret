@@ -128,7 +128,7 @@ export default function ContactPage() {
               Get in Touch
             </Badge>
             <h1 className="font-heading text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-              Contact <span className="gradient-text">Us</span>
+              Contact <span className="text-foreground">Us</span>
             </h1>
             <p className="mx-auto mt-4 max-w-2xl text-base text-muted-foreground sm:text-lg">
               Below are some frequently asked questions that many of our first
@@ -390,7 +390,7 @@ export default function ContactPage() {
             </Badge>
             <h2 className="font-heading text-3xl font-bold tracking-tight sm:text-4xl">
               Frequently Asked{" "}
-              <span className="gradient-text">Questions</span>
+              <span className="text-foreground">Questions</span>
             </h2>
             <Separator className="mx-auto mt-8 max-w-xs" />
           </div>
